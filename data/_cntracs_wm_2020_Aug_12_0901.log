@@ -1,0 +1,710 @@
+0.6139 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+1.9361 	WARNING 	Import Error: No module named 'psychtoolbox'. Using event module for keyboard component.
+4.3142 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0E3E5590>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0E421750>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1200]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.3142 	EXP 	window1: recordFrameIntervals = False
+4.4808 	EXP 	window1: recordFrameIntervals = True
+4.6642 	EXP 	window1: recordFrameIntervals = False
+4.6712 	EXP 	Created probeCircle = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='probeCircle', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+4.6734 	EXP 	Created testPos0 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-1.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='testPos0', opacity=1.0, ori=array(-90.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+4.6749 	EXP 	Created testPos20 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-2.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='testPos20', opacity=1.0, ori=array(198.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+4.6764 	EXP 	Created testPos40 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-3.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='testPos40', opacity=1.0, ori=array(126.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+4.6779 	EXP 	Created testPos60 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-4.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='testPos60', opacity=1.0, ori=array(54.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+4.6793 	EXP 	Created testPos80 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-5.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='testPos80', opacity=1.0, ori=array(-18.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+6.8088 	EXP 	Created testColorsExplained = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.0, italic=False, languageStyle='LTR', name='testColorsExplained', opacity=1.0, ori=0, pos=array([ 0. , -0.3]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+6.8106 	EXP 	Created clickablePos0 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-8.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='clickablePos0', opacity=0.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+6.8121 	EXP 	Created clickablePos20 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-9.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='clickablePos20', opacity=0.0, ori=array(198.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+6.8135 	EXP 	Created clickablePos40 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-10.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='clickablePos40', opacity=0.0, ori=array(126.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+6.8149 	EXP 	Created clickablePos60 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-11.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='clickablePos60', opacity=0.0, ori=array(54.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+6.8164 	EXP 	Created clickablePos80 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-12.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='clickablePos80', opacity=0.0, ori=array(-18.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.1688 	EXP 	Created textInstructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.0, italic=False, languageStyle='LTR', name='textInstructions', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.1703 	EXP 	Created centralFixation = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-1.0, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([0.5, 0.5, 0.5]), lineColorSpace='rgb', lineRGB=array([0.5, 0.5, 0.5]), lineWidth=2, name='centralFixation', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.1717 	EXP 	Created stim1 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-2.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='stim1', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.1733 	EXP 	Created stim2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-3.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='stim2', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.1748 	EXP 	Created stim3 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-4.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='stim3', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.1763 	EXP 	Created stim4 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-5.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='stim4', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.1777 	EXP 	Created stim5 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-6.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='stim5', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.1836 	EXP 	Created respRingDemo = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-1.0, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=1, name='respRingDemo', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.1895 	EXP 	Created probeDemo = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-2.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='probeDemo', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.1980 	EXP 	Created textDemo = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.0, italic=False, languageStyle='LTR', name='textDemo', opacity=1.0, ori=0, pos=array([ 0. , -0.3]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.2039 	EXP 	Created arrowImage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, image='images/arrow.png', interpolate=True, mask=None, maskParams=None, name='arrowImage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), texRes=128, units='height', win=Window(...))
+8.3119 	EXP 	Created clickToBegin = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.0, italic=False, languageStyle='LTR', name='clickToBegin', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.3135 	EXP 	Created centralFixation_Long = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0.0, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([0.5, 0.5, 0.5]), lineColorSpace='rgb', lineRGB=array([0.5, 0.5, 0.5]), lineWidth=2, name='centralFixation_Long', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3149 	EXP 	Created centralFixation = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-1.0, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([0.5, 0.5, 0.5]), lineColorSpace='rgb', lineRGB=array([0.5, 0.5, 0.5]), lineWidth=2, name='centralFixation', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3164 	EXP 	Created stim1 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-2.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='stim1', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3179 	EXP 	Created stim2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-3.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='stim2', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3194 	EXP 	Created stim3 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-4.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='stim3', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3208 	EXP 	Created stim4 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-5.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='stim4', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3223 	EXP 	Created stim5 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-6.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='stim5', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3280 	EXP 	Created respRing = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-1.0, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=1, name='respRing', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3337 	EXP 	Created probe = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-2.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='probe', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3352 	EXP 	Created pos0 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-4.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos0', opacity=0.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3366 	EXP 	Created pos5 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-5.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos5', opacity=0.0, ori=array(18.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3380 	EXP 	Created pos10 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-6.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos10', opacity=0.0, ori=array(36.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3395 	EXP 	Created pos15 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-7.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos15', opacity=0.0, ori=array(54.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3409 	EXP 	Created pos20 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-8.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos20', opacity=0.0, ori=array(72.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3423 	EXP 	Created pos25 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-9.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos25', opacity=0.0, ori=array(90.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3437 	EXP 	Created pos30 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-10.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos30', opacity=0.0, ori=array(108.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3451 	EXP 	Created pos35 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-11.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos35', opacity=0.0, ori=array(126.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3466 	EXP 	Created pos40 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-12.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos40', opacity=0.0, ori=array(144.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3479 	EXP 	Created pos45 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-13.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos45', opacity=0.0, ori=array(162.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3494 	EXP 	Created pos50 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-14.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos50', opacity=0.0, ori=array(180.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3508 	EXP 	Created pos55 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-15.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos55', opacity=0.0, ori=array(198.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3522 	EXP 	Created pos60 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-16.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos60', opacity=0.0, ori=array(216.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3537 	EXP 	Created pos65 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-17.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos65', opacity=0.0, ori=array(234.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3551 	EXP 	Created pos70 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-18.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos70', opacity=0.0, ori=array(252.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3565 	EXP 	Created pos75 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-19.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos75', opacity=0.0, ori=array(270.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3579 	EXP 	Created pos80 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-20.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos80', opacity=0.0, ori=array(288.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3593 	EXP 	Created pos85 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-21.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos85', opacity=0.0, ori=array(306.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3607 	EXP 	Created pos90 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-22.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos90', opacity=0.0, ori=array(324.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3621 	EXP 	Created pos95 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=-23.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1, name='pos95', opacity=0.0, ori=array(342.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+8.3935 	EXP 	Imported parameterFiles/taskParameters.xlsx as conditions, 1 conditions, 57 params
+8.3937 	EXP 	Created sequence: sequential, trialTypes=1, nReps=1, seed=None
+8.3949 	EXP 	New trial (rep=0, index=0): OrderedDict([('fontSize', 0.03), ('fixDuration', 0.5), ('fixSize', 0.005), ('stimDuration', 0.5), ('stimWidth', 0.006), ('stimHeight', 0.06), ('retentionInterval', 1), ('preProbeDuration', 2), ('dva_52cmMonitorWidth_100cmDistance', 29.148432396077478), ('pixelsPerDegreeVisualAngle', 65.86975154994529), ('heightUnitsPerDVA', 0.05489145962495441), ('stimRadius', 0.19212010868734045), ('pos0_x', 0.1920908478642322), ('pos0_y', -0.003352958221586543), ('pos5_x', 0.18165313151003956), ('pos5_y', -0.06254818921944531), ('pos10_x', 0.1534339409918552), ('pos10_y', -0.11562076765764533), ('pos15_x', 0.1101955672922603), ('pos15_y', -0.15737557978025815), ('pos20_x', 0.05617048368843471), ('pos20_y', -0.18372537365383873), ('pos25_x', -0.003352958221586538), ('pos25_y', -0.1920908478642322), ('pos30_x', -0.06254818921944531), ('pos30_y', -0.18165313151003956), ('pos35_x', -0.11562076765764533), ('pos35_y', -0.1534339409918552), ('pos40_x', -0.15737557978025815), ('pos40_y', -0.1101955672922603), ('pos45_x', -0.18372537365383873), ('pos45_y', -0.05617048368843471), ('pos50_x', -0.1920908478642322), ('pos50_y', 0.0033529582215864823), ('pos55_x', -0.18165313151003956), ('pos55_y', 0.06254818921944531), ('pos60_x', -0.1534339409918552), ('pos60_y', 0.11562076765764533), ('pos65_x', -0.1101955672922603), ('pos65_y', 0.15737557978025815), ('pos70_x', -0.05617048368843471), ('pos70_y', 0.18372537365383873), ('pos75_x', 0.003352958221586472), ('pos75_y', 0.1920908478642322), ('pos80_x', 0.06254818921944531), ('pos80_y', 0.18165313151003956), ('pos85_x', 0.11562076765764533), ('pos85_y', 0.1534339409918552), ('pos90_x', 0.15737557978025815), ('pos90_y', 0.1101955672922603), ('pos95_x', 0.18372537365383873), ('pos95_y', 0.05617048368843471), ('color0', '#00aaff'), ('color1', '#1e00b4'), ('color2', '#00ff00'), ('color3', '#ffffff'), ('color4', '#000000')])
+8.4048 	EXP 	Imported parameterFiles/testColorsSequence.xlsx as conditions, 5 conditions, 12 params
+8.4051 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+8.4055 	EXP 	New trial (rep=0, index=0): OrderedDict([('testColorsColor', '#00aaff'), ('testColorsProbedLocation', 0), ('testColorsProbedObject', 'testPos0'), ('testColorsX_degUnits', 3.49946693304736), ('testColorsY_degUnits', -0.0610834225304922), ('pixelsPerDegreeVisualAngle', 40.27785706560729), ('probedX_pixUnits', 140.95102893510068), ('probedY_pixUnits', -2.460309361761261), ('probedX_pixPercentage_givesHeightUnits', 0.11745919077925057), ('probedY_pixPercentage_givesHeightUnits', -0.0020502578014677175), ('testColorsX_heightUnits', 0.11745919077925057), ('testColorsY_heightUnits', -0.0020502578014677175)])
+8.4377 	EXP 	probeCircle: size = array([0.01, 0.01])
+8.4377 	EXP 	probeCircle: fillColor = '#00aaff (hex)'
+8.4377 	EXP 	probeCircle: lineColor = '#00aaff (hex)'
+8.4377 	EXP 	testPos0: pos = array([ 0.19209085, -0.00335296])
+8.4377 	EXP 	testPos0: size = array([0.006, 0.06 ])
+8.4377 	EXP 	testPos0: fillColor = '#00aaff (hex)'
+8.4377 	EXP 	testPos0: lineColor = '#00aaff (hex)'
+8.4377 	EXP 	testPos20: pos = array([ 0.05617048, -0.18372537])
+8.4377 	EXP 	testPos20: size = array([0.006, 0.06 ])
+8.4377 	EXP 	testPos20: fillColor = '#1e00b4 (hex)'
+8.4377 	EXP 	testPos20: lineColor = '#1e00b4 (hex)'
+8.4377 	EXP 	testPos40: pos = array([-0.15737558, -0.11019557])
+8.4377 	EXP 	testPos40: size = array([0.006, 0.06 ])
+8.4377 	EXP 	testPos40: fillColor = '#00ff00 (hex)'
+8.4377 	EXP 	testPos40: lineColor = '#00ff00 (hex)'
+8.4377 	EXP 	testPos60: pos = array([-0.15343394,  0.11562077])
+8.4377 	EXP 	testPos60: size = array([0.006, 0.06 ])
+8.4377 	EXP 	testPos60: fillColor = '#ffffff (hex)'
+8.4377 	EXP 	testPos60: lineColor = '#ffffff (hex)'
+8.4377 	EXP 	testPos80: pos = array([0.06254819, 0.18165313])
+8.4377 	EXP 	testPos80: size = array([0.006, 0.06 ])
+8.4377 	EXP 	testPos80: fillColor = '#000000 (hex)'
+8.4377 	EXP 	testPos80: lineColor = '#000000 (hex)'
+8.4377 	EXP 	testColorsExplained: height = 0.03
+8.4377 	EXP 	clickablePos0: pos = array([ 0.19209085, -0.00335296])
+8.4377 	EXP 	clickablePos0: size = array([0.012, 0.12 ])
+8.4377 	EXP 	clickablePos20: pos = array([ 0.05617048, -0.18372537])
+8.4377 	EXP 	clickablePos20: size = array([0.012, 0.12 ])
+8.4377 	EXP 	clickablePos40: pos = array([-0.15737558, -0.11019557])
+8.4377 	EXP 	clickablePos40: size = array([0.012, 0.12 ])
+8.4377 	EXP 	clickablePos60: pos = array([-0.15343394,  0.11562077])
+8.4377 	EXP 	clickablePos60: size = array([0.012, 0.12 ])
+8.4377 	EXP 	clickablePos80: pos = array([0.06254819, 0.18165313])
+8.4377 	EXP 	clickablePos80: size = array([0.012, 0.12 ])
+8.4377 	EXP 	probeCircle: autoDraw = True
+8.4377 	EXP 	testPos0: autoDraw = True
+8.4377 	EXP 	testPos20: autoDraw = True
+8.4377 	EXP 	testPos40: autoDraw = True
+8.4377 	EXP 	testPos60: autoDraw = True
+8.4377 	EXP 	testPos80: autoDraw = True
+8.4377 	EXP 	testColorsExplained: autoDraw = True
+8.4377 	EXP 	clickablePos0: autoDraw = True
+8.4377 	EXP 	clickablePos20: autoDraw = True
+8.4377 	EXP 	clickablePos40: autoDraw = True
+8.4377 	EXP 	clickablePos60: autoDraw = True
+8.4377 	EXP 	clickablePos80: autoDraw = True
+8.4377 	EXP 	testColorsExplained: text = 'Click the bar whose color matches the central circle.'
+8.9846 	DATA 	Mouse: Left button down, pos=(817,722)
+8.9887 	EXP 	New trial (rep=0, index=1): OrderedDict([('testColorsColor', '#1e00b4'), ('testColorsProbedLocation', 20), ('testColorsProbedObject', 'testPos20'), ('testColorsX_degUnits', 1.02330096652957), ('testColorsY_degUnits', -3.34706664587062), ('pixelsPerDegreeVisualAngle', 40.27785706560729), ('probedX_pixUnits', 41.21637006497581), ('probedY_pixUnits', -134.81267195143846), ('probedX_pixPercentage_givesHeightUnits', 0.03434697505414651), ('probedY_pixPercentage_givesHeightUnits', -0.11234389329286538), ('testColorsX_heightUnits', 0.03434697505414651), ('testColorsY_heightUnits', -0.11234389329286538)])
+9.0176 	EXP 	probeCircle: autoDraw = False
+9.0176 	EXP 	testPos0: autoDraw = False
+9.0176 	EXP 	testPos20: autoDraw = False
+9.0176 	EXP 	testPos40: autoDraw = False
+9.0176 	EXP 	testPos60: autoDraw = False
+9.0176 	EXP 	testPos80: autoDraw = False
+9.0176 	EXP 	testColorsExplained: autoDraw = False
+9.0176 	EXP 	clickablePos0: autoDraw = False
+9.0176 	EXP 	clickablePos20: autoDraw = False
+9.0176 	EXP 	clickablePos40: autoDraw = False
+9.0176 	EXP 	clickablePos60: autoDraw = False
+9.0176 	EXP 	clickablePos80: autoDraw = False
+9.0176 	EXP 	probeCircle: size = array([0.01, 0.01])
+9.0176 	EXP 	probeCircle: fillColor = '#1e00b4 (hex)'
+9.0176 	EXP 	probeCircle: lineColor = '#1e00b4 (hex)'
+9.0176 	EXP 	testPos0: pos = array([ 0.19209085, -0.00335296])
+9.0176 	EXP 	testPos0: size = array([0.006, 0.06 ])
+9.0176 	EXP 	testPos0: fillColor = '#00aaff (hex)'
+9.0176 	EXP 	testPos0: lineColor = '#00aaff (hex)'
+9.0176 	EXP 	testPos20: pos = array([ 0.05617048, -0.18372537])
+9.0176 	EXP 	testPos20: size = array([0.006, 0.06 ])
+9.0176 	EXP 	testPos20: fillColor = '#1e00b4 (hex)'
+9.0176 	EXP 	testPos20: lineColor = '#1e00b4 (hex)'
+9.0176 	EXP 	testPos40: pos = array([-0.15737558, -0.11019557])
+9.0176 	EXP 	testPos40: size = array([0.006, 0.06 ])
+9.0176 	EXP 	testPos40: fillColor = '#00ff00 (hex)'
+9.0176 	EXP 	testPos40: lineColor = '#00ff00 (hex)'
+9.0176 	EXP 	testPos60: pos = array([-0.15343394,  0.11562077])
+9.0176 	EXP 	testPos60: size = array([0.006, 0.06 ])
+9.0176 	EXP 	testPos60: fillColor = '#ffffff (hex)'
+9.0176 	EXP 	testPos60: lineColor = '#ffffff (hex)'
+9.0176 	EXP 	testPos80: pos = array([0.06254819, 0.18165313])
+9.0176 	EXP 	testPos80: size = array([0.006, 0.06 ])
+9.0176 	EXP 	testPos80: fillColor = '#000000 (hex)'
+9.0176 	EXP 	testPos80: lineColor = '#000000 (hex)'
+9.0176 	EXP 	testColorsExplained: height = 0.03
+9.0176 	EXP 	clickablePos0: pos = array([ 0.19209085, -0.00335296])
+9.0176 	EXP 	clickablePos0: size = array([0.012, 0.12 ])
+9.0176 	EXP 	clickablePos20: pos = array([ 0.05617048, -0.18372537])
+9.0176 	EXP 	clickablePos20: size = array([0.012, 0.12 ])
+9.0176 	EXP 	clickablePos40: pos = array([-0.15737558, -0.11019557])
+9.0176 	EXP 	clickablePos40: size = array([0.012, 0.12 ])
+9.0176 	EXP 	clickablePos60: pos = array([-0.15343394,  0.11562077])
+9.0176 	EXP 	clickablePos60: size = array([0.012, 0.12 ])
+9.0176 	EXP 	clickablePos80: pos = array([0.06254819, 0.18165313])
+9.0176 	EXP 	clickablePos80: size = array([0.012, 0.12 ])
+9.0176 	EXP 	probeCircle: autoDraw = True
+9.0176 	EXP 	testPos0: autoDraw = True
+9.0176 	EXP 	testPos20: autoDraw = True
+9.0176 	EXP 	testPos40: autoDraw = True
+9.0176 	EXP 	testPos60: autoDraw = True
+9.0176 	EXP 	testPos80: autoDraw = True
+9.0176 	EXP 	testColorsExplained: autoDraw = True
+9.0176 	EXP 	clickablePos0: autoDraw = True
+9.0176 	EXP 	clickablePos20: autoDraw = True
+9.0176 	EXP 	clickablePos40: autoDraw = True
+9.0176 	EXP 	clickablePos60: autoDraw = True
+9.0176 	EXP 	clickablePos80: autoDraw = True
+9.0176 	EXP 	testColorsExplained: text = 'Click the bar whose color matches the central circle.'
+9.0693 	DATA 	Mouse:  Left button up, pos=(817,722)
+9.1699 	DATA 	Mouse: Left button down, pos=(817,722)
+9.1877 	EXP 	New trial (rep=0, index=2): OrderedDict([('testColorsColor', '#00ff00'), ('testColorsProbedLocation', 40), ('testColorsProbedObject', 'testPos40'), ('testColorsX_degUnits', -2.86703215501147), ('testColorsY_degUnits', -2.00751752722866), ('pixelsPerDegreeVisualAngle', 40.27785706560729), ('probedX_pixUnits', -115.47791134205204), ('probedY_pixUnits', -80.85850401841736), ('probedX_pixPercentage_givesHeightUnits', -0.09623159278504337), ('probedY_pixPercentage_givesHeightUnits', -0.06738208668201447), ('testColorsX_heightUnits', -0.09623159278504337), ('testColorsY_heightUnits', -0.06738208668201447)])
+9.2177 	EXP 	probeCircle: autoDraw = False
+9.2177 	EXP 	testPos0: autoDraw = False
+9.2177 	EXP 	testPos20: autoDraw = False
+9.2177 	EXP 	testPos40: autoDraw = False
+9.2177 	EXP 	testPos60: autoDraw = False
+9.2177 	EXP 	testPos80: autoDraw = False
+9.2177 	EXP 	testColorsExplained: autoDraw = False
+9.2177 	EXP 	clickablePos0: autoDraw = False
+9.2177 	EXP 	clickablePos20: autoDraw = False
+9.2177 	EXP 	clickablePos40: autoDraw = False
+9.2177 	EXP 	clickablePos60: autoDraw = False
+9.2177 	EXP 	clickablePos80: autoDraw = False
+9.2177 	EXP 	probeCircle: size = array([0.01, 0.01])
+9.2177 	EXP 	probeCircle: fillColor = '#00ff00 (hex)'
+9.2177 	EXP 	probeCircle: lineColor = '#00ff00 (hex)'
+9.2177 	EXP 	testPos0: pos = array([ 0.19209085, -0.00335296])
+9.2177 	EXP 	testPos0: size = array([0.006, 0.06 ])
+9.2177 	EXP 	testPos0: fillColor = '#00aaff (hex)'
+9.2177 	EXP 	testPos0: lineColor = '#00aaff (hex)'
+9.2177 	EXP 	testPos20: pos = array([ 0.05617048, -0.18372537])
+9.2177 	EXP 	testPos20: size = array([0.006, 0.06 ])
+9.2177 	EXP 	testPos20: fillColor = '#1e00b4 (hex)'
+9.2177 	EXP 	testPos20: lineColor = '#1e00b4 (hex)'
+9.2177 	EXP 	testPos40: pos = array([-0.15737558, -0.11019557])
+9.2177 	EXP 	testPos40: size = array([0.006, 0.06 ])
+9.2177 	EXP 	testPos40: fillColor = '#00ff00 (hex)'
+9.2177 	EXP 	testPos40: lineColor = '#00ff00 (hex)'
+9.2177 	EXP 	testPos60: pos = array([-0.15343394,  0.11562077])
+9.2177 	EXP 	testPos60: size = array([0.006, 0.06 ])
+9.2177 	EXP 	testPos60: fillColor = '#ffffff (hex)'
+9.2177 	EXP 	testPos60: lineColor = '#ffffff (hex)'
+9.2177 	EXP 	testPos80: pos = array([0.06254819, 0.18165313])
+9.2177 	EXP 	testPos80: size = array([0.006, 0.06 ])
+9.2177 	EXP 	testPos80: fillColor = '#000000 (hex)'
+9.2177 	EXP 	testPos80: lineColor = '#000000 (hex)'
+9.2177 	EXP 	testColorsExplained: height = 0.03
+9.2177 	EXP 	clickablePos0: pos = array([ 0.19209085, -0.00335296])
+9.2177 	EXP 	clickablePos0: size = array([0.012, 0.12 ])
+9.2177 	EXP 	clickablePos20: pos = array([ 0.05617048, -0.18372537])
+9.2177 	EXP 	clickablePos20: size = array([0.012, 0.12 ])
+9.2177 	EXP 	clickablePos40: pos = array([-0.15737558, -0.11019557])
+9.2177 	EXP 	clickablePos40: size = array([0.012, 0.12 ])
+9.2177 	EXP 	clickablePos60: pos = array([-0.15343394,  0.11562077])
+9.2177 	EXP 	clickablePos60: size = array([0.012, 0.12 ])
+9.2177 	EXP 	clickablePos80: pos = array([0.06254819, 0.18165313])
+9.2177 	EXP 	clickablePos80: size = array([0.012, 0.12 ])
+9.2177 	EXP 	probeCircle: autoDraw = True
+9.2177 	EXP 	testPos0: autoDraw = True
+9.2177 	EXP 	testPos20: autoDraw = True
+9.2177 	EXP 	testPos40: autoDraw = True
+9.2177 	EXP 	testPos60: autoDraw = True
+9.2177 	EXP 	testPos80: autoDraw = True
+9.2177 	EXP 	testColorsExplained: autoDraw = True
+9.2177 	EXP 	clickablePos0: autoDraw = True
+9.2177 	EXP 	clickablePos20: autoDraw = True
+9.2177 	EXP 	clickablePos40: autoDraw = True
+9.2177 	EXP 	clickablePos60: autoDraw = True
+9.2177 	EXP 	clickablePos80: autoDraw = True
+9.2177 	EXP 	testColorsExplained: text = 'Click the bar whose color matches the central circle.'
+9.2680 	DATA 	Mouse:  Left button up, pos=(817,722)
+9.3849 	DATA 	Mouse: Left button down, pos=(817,722)
+9.3880 	EXP 	New trial (rep=0, index=3): OrderedDict([('testColorsColor', '#ffffff'), ('testColorsProbedLocation', 60), ('testColorsProbedObject', 'testPos60'), ('testColorsX_degUnits', -2.79522428516552), ('testColorsY_degUnits', 2.10635258103216), ('pixelsPerDegreeVisualAngle', 40.27785706560729), ('probedX_pixUnits', -112.58564422421112), ('probedY_pixUnits', 84.83936818858633), ('probedX_pixPercentage_givesHeightUnits', -0.0938213701868426), ('probedY_pixPercentage_givesHeightUnits', 0.0706994734904886), ('testColorsX_heightUnits', -0.0938213701868426), ('testColorsY_heightUnits', 0.0706994734904886)])
+9.4179 	EXP 	probeCircle: autoDraw = False
+9.4179 	EXP 	testPos0: autoDraw = False
+9.4179 	EXP 	testPos20: autoDraw = False
+9.4179 	EXP 	testPos40: autoDraw = False
+9.4179 	EXP 	testPos60: autoDraw = False
+9.4179 	EXP 	testPos80: autoDraw = False
+9.4179 	EXP 	testColorsExplained: autoDraw = False
+9.4179 	EXP 	clickablePos0: autoDraw = False
+9.4179 	EXP 	clickablePos20: autoDraw = False
+9.4179 	EXP 	clickablePos40: autoDraw = False
+9.4179 	EXP 	clickablePos60: autoDraw = False
+9.4179 	EXP 	clickablePos80: autoDraw = False
+9.4179 	EXP 	probeCircle: size = array([0.01, 0.01])
+9.4179 	EXP 	probeCircle: fillColor = '#ffffff (hex)'
+9.4179 	EXP 	probeCircle: lineColor = '#ffffff (hex)'
+9.4179 	EXP 	testPos0: pos = array([ 0.19209085, -0.00335296])
+9.4179 	EXP 	testPos0: size = array([0.006, 0.06 ])
+9.4179 	EXP 	testPos0: fillColor = '#00aaff (hex)'
+9.4179 	EXP 	testPos0: lineColor = '#00aaff (hex)'
+9.4179 	EXP 	testPos20: pos = array([ 0.05617048, -0.18372537])
+9.4179 	EXP 	testPos20: size = array([0.006, 0.06 ])
+9.4179 	EXP 	testPos20: fillColor = '#1e00b4 (hex)'
+9.4179 	EXP 	testPos20: lineColor = '#1e00b4 (hex)'
+9.4179 	EXP 	testPos40: pos = array([-0.15737558, -0.11019557])
+9.4179 	EXP 	testPos40: size = array([0.006, 0.06 ])
+9.4179 	EXP 	testPos40: fillColor = '#00ff00 (hex)'
+9.4179 	EXP 	testPos40: lineColor = '#00ff00 (hex)'
+9.4179 	EXP 	testPos60: pos = array([-0.15343394,  0.11562077])
+9.4179 	EXP 	testPos60: size = array([0.006, 0.06 ])
+9.4179 	EXP 	testPos60: fillColor = '#ffffff (hex)'
+9.4179 	EXP 	testPos60: lineColor = '#ffffff (hex)'
+9.4179 	EXP 	testPos80: pos = array([0.06254819, 0.18165313])
+9.4179 	EXP 	testPos80: size = array([0.006, 0.06 ])
+9.4179 	EXP 	testPos80: fillColor = '#000000 (hex)'
+9.4179 	EXP 	testPos80: lineColor = '#000000 (hex)'
+9.4179 	EXP 	testColorsExplained: height = 0.03
+9.4179 	EXP 	clickablePos0: pos = array([ 0.19209085, -0.00335296])
+9.4179 	EXP 	clickablePos0: size = array([0.012, 0.12 ])
+9.4179 	EXP 	clickablePos20: pos = array([ 0.05617048, -0.18372537])
+9.4179 	EXP 	clickablePos20: size = array([0.012, 0.12 ])
+9.4179 	EXP 	clickablePos40: pos = array([-0.15737558, -0.11019557])
+9.4179 	EXP 	clickablePos40: size = array([0.012, 0.12 ])
+9.4179 	EXP 	clickablePos60: pos = array([-0.15343394,  0.11562077])
+9.4179 	EXP 	clickablePos60: size = array([0.012, 0.12 ])
+9.4179 	EXP 	clickablePos80: pos = array([0.06254819, 0.18165313])
+9.4179 	EXP 	clickablePos80: size = array([0.012, 0.12 ])
+9.4179 	EXP 	probeCircle: autoDraw = True
+9.4179 	EXP 	testPos0: autoDraw = True
+9.4179 	EXP 	testPos20: autoDraw = True
+9.4179 	EXP 	testPos40: autoDraw = True
+9.4179 	EXP 	testPos60: autoDraw = True
+9.4179 	EXP 	testPos80: autoDraw = True
+9.4179 	EXP 	testColorsExplained: autoDraw = True
+9.4179 	EXP 	clickablePos0: autoDraw = True
+9.4179 	EXP 	clickablePos20: autoDraw = True
+9.4179 	EXP 	clickablePos40: autoDraw = True
+9.4179 	EXP 	clickablePos60: autoDraw = True
+9.4179 	EXP 	clickablePos80: autoDraw = True
+9.4179 	EXP 	testColorsExplained: text = 'Click the bar whose color matches the central circle.'
+9.4681 	DATA 	Mouse:  Left button up, pos=(817,722)
+9.6016 	DATA 	Mouse: Left button down, pos=(817,722)
+9.6048 	EXP 	New trial (rep=0, index=4): OrderedDict([('testColorsColor', '#000000'), ('testColorsProbedLocation', 80), ('testColorsProbedObject', 'testPos80'), ('testColorsX_degUnits', 1.13948854060004), ('testColorsY_degUnits', 3.3093150145976), ('pixelsPerDegreeVisualAngle', 40.27785706560729), ('probedX_pixUnits', 45.89615656618586), ('probedY_pixUnits', 133.29211714303023), ('probedX_pixPercentage_givesHeightUnits', 0.03824679713848821), ('probedY_pixPercentage_givesHeightUnits', 0.11107676428585853), ('testColorsX_heightUnits', 0.03824679713848821), ('testColorsY_heightUnits', 0.11107676428585853)])
+9.6350 	EXP 	probeCircle: autoDraw = False
+9.6350 	EXP 	testPos0: autoDraw = False
+9.6350 	EXP 	testPos20: autoDraw = False
+9.6350 	EXP 	testPos40: autoDraw = False
+9.6350 	EXP 	testPos60: autoDraw = False
+9.6350 	EXP 	testPos80: autoDraw = False
+9.6350 	EXP 	testColorsExplained: autoDraw = False
+9.6350 	EXP 	clickablePos0: autoDraw = False
+9.6350 	EXP 	clickablePos20: autoDraw = False
+9.6350 	EXP 	clickablePos40: autoDraw = False
+9.6350 	EXP 	clickablePos60: autoDraw = False
+9.6350 	EXP 	clickablePos80: autoDraw = False
+9.6350 	EXP 	probeCircle: size = array([0.01, 0.01])
+9.6350 	EXP 	probeCircle: fillColor = '#000000 (hex)'
+9.6350 	EXP 	probeCircle: lineColor = '#000000 (hex)'
+9.6350 	EXP 	testPos0: pos = array([ 0.19209085, -0.00335296])
+9.6350 	EXP 	testPos0: size = array([0.006, 0.06 ])
+9.6350 	EXP 	testPos0: fillColor = '#00aaff (hex)'
+9.6350 	EXP 	testPos0: lineColor = '#00aaff (hex)'
+9.6350 	EXP 	testPos20: pos = array([ 0.05617048, -0.18372537])
+9.6350 	EXP 	testPos20: size = array([0.006, 0.06 ])
+9.6350 	EXP 	testPos20: fillColor = '#1e00b4 (hex)'
+9.6350 	EXP 	testPos20: lineColor = '#1e00b4 (hex)'
+9.6350 	EXP 	testPos40: pos = array([-0.15737558, -0.11019557])
+9.6350 	EXP 	testPos40: size = array([0.006, 0.06 ])
+9.6350 	EXP 	testPos40: fillColor = '#00ff00 (hex)'
+9.6350 	EXP 	testPos40: lineColor = '#00ff00 (hex)'
+9.6350 	EXP 	testPos60: pos = array([-0.15343394,  0.11562077])
+9.6350 	EXP 	testPos60: size = array([0.006, 0.06 ])
+9.6350 	EXP 	testPos60: fillColor = '#ffffff (hex)'
+9.6350 	EXP 	testPos60: lineColor = '#ffffff (hex)'
+9.6350 	EXP 	testPos80: pos = array([0.06254819, 0.18165313])
+9.6350 	EXP 	testPos80: size = array([0.006, 0.06 ])
+9.6350 	EXP 	testPos80: fillColor = '#000000 (hex)'
+9.6350 	EXP 	testPos80: lineColor = '#000000 (hex)'
+9.6350 	EXP 	testColorsExplained: height = 0.03
+9.6350 	EXP 	clickablePos0: pos = array([ 0.19209085, -0.00335296])
+9.6350 	EXP 	clickablePos0: size = array([0.012, 0.12 ])
+9.6350 	EXP 	clickablePos20: pos = array([ 0.05617048, -0.18372537])
+9.6350 	EXP 	clickablePos20: size = array([0.012, 0.12 ])
+9.6350 	EXP 	clickablePos40: pos = array([-0.15737558, -0.11019557])
+9.6350 	EXP 	clickablePos40: size = array([0.012, 0.12 ])
+9.6350 	EXP 	clickablePos60: pos = array([-0.15343394,  0.11562077])
+9.6350 	EXP 	clickablePos60: size = array([0.012, 0.12 ])
+9.6350 	EXP 	clickablePos80: pos = array([0.06254819, 0.18165313])
+9.6350 	EXP 	clickablePos80: size = array([0.012, 0.12 ])
+9.6350 	EXP 	probeCircle: autoDraw = True
+9.6350 	EXP 	testPos0: autoDraw = True
+9.6350 	EXP 	testPos20: autoDraw = True
+9.6350 	EXP 	testPos40: autoDraw = True
+9.6350 	EXP 	testPos60: autoDraw = True
+9.6350 	EXP 	testPos80: autoDraw = True
+9.6350 	EXP 	testColorsExplained: autoDraw = True
+9.6350 	EXP 	clickablePos0: autoDraw = True
+9.6350 	EXP 	clickablePos20: autoDraw = True
+9.6350 	EXP 	clickablePos40: autoDraw = True
+9.6350 	EXP 	clickablePos60: autoDraw = True
+9.6350 	EXP 	clickablePos80: autoDraw = True
+9.6350 	EXP 	testColorsExplained: text = 'Click the bar whose color matches the central circle.'
+9.6889 	DATA 	Mouse:  Left button up, pos=(817,722)
+9.8685 	DATA 	Mouse: Left button down, pos=(817,722)
+9.9185 	EXP 	probeCircle: autoDraw = False
+9.9185 	EXP 	testPos0: autoDraw = False
+9.9185 	EXP 	testPos20: autoDraw = False
+9.9185 	EXP 	testPos40: autoDraw = False
+9.9185 	EXP 	testPos60: autoDraw = False
+9.9185 	EXP 	testPos80: autoDraw = False
+9.9185 	EXP 	testColorsExplained: autoDraw = False
+9.9185 	EXP 	clickablePos0: autoDraw = False
+9.9185 	EXP 	clickablePos20: autoDraw = False
+9.9185 	EXP 	clickablePos40: autoDraw = False
+9.9185 	EXP 	clickablePos60: autoDraw = False
+9.9185 	EXP 	clickablePos80: autoDraw = False
+9.9185 	EXP 	textInstructions: height = 0.03
+9.9185 	EXP 	textInstructions: autoDraw = True
+9.9185 	EXP 	textInstructions: text = 'Welcome!\n\nIn this experiment we will test your memory for the location of some colored rectangles.\n\nTry to remember where each rectangle is located.\n\nWhen the rectangles disappear a single colored circle will appear in the center of the screen.\n\nClick on the screen where you remember having seen a rectangle matching the color of the circle.\n\nClick any button to begin.'
+9.9687 	DATA 	Mouse:  Left button up, pos=(817,722)
+10.5357 	DATA 	Mouse: Left button down, pos=(817,722)
+10.5610 	EXP 	Imported parameterFiles/trialDemoSequence_forJS.xlsx as conditions, 5 conditions, 60 params
+10.5613 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+10.5625 	EXP 	New trial (rep=0, index=0): OrderedDict([('durITI', 1.517), ('trialNumber', -5), ('trialWithinBlock', 0), ('blockNumber', -1), ('setSize', 1), ('dva_52cmMonitorWidth_100cmDistance', 29.148432396077478), ('pixelsPerDegreeVisualAngle', 65.86975154994529), ('probedColor', '#000000'), ('probedLocation', [25]), ('probedXY_degUnits_52cmMonitorWidth_100cmDistance', [-0.06108342253049217, -3.4994669330473696]), ('probedX_degUnits', -0.061083422530492176), ('probedY_degUnits', -3.4994669330473696), ('probedX_pixUnits', -4.023549865903846), ('probedY_pixUnits', -230.50901743707863), ('probedX_heightUnits', -0.003352958221586538), ('probedY_heightUnits', -0.1920908478642322), ('stim1_x', -0.003352958221586538), ('stim1_y', -0.1920908478642322), ('unprobedColors', []), ('unprobedLocations', []), ('unprobedXY', []), ('stim1_color', '#000000'), ('stim1_location', 25), ('stim1_orientation', 180.0), ('stim2_color', '#808080'), ('stim2_location', None), ('stim2_orientation', 180.0), ('stim3_color', '#808080'), ('stim3_location', None), ('stim3_orientation', 180.0), ('stim4_color', '#808080'), ('stim4_location', None), ('stim4_orientation', 180.0), ('stim5_color', '#808080'), ('stim5_location', None), ('stim5_orientation', 180.0), ('stim2_x_degUnits', None), ('stim2_y_degUnits', None), ('stim2_x_pixUnits', None), ('stim2_y_pixUnits', None), ('stim2_x', 0.003352958221586538), ('stim2_y', 0.1920908478642322), ('stim3_x_degUnits', None), ('stim3_y_degUnits', None), ('stim3_x_pixUnits', None), ('stim3_y_pixUnits', None), ('stim3_x', 0.003352958221586538), ('stim3_y', 0.1920908478642322), ('stim4_x_degUnits', None), ('stim4_y_degUnits', None), ('stim4_x_pixUnits', None), ('stim4_y_pixUnits', None), ('stim4_x', 0.003352958221586538), ('stim4_y', 0.1920908478642322), ('stim5_x_degUnits', None), ('stim5_y_degUnits', None), ('stim5_x_pixUnits', None), ('stim5_y_pixUnits', None), ('stim5_x', 0.003352958221586538), ('stim5_y', 0.1920908478642322)])
+10.5856 	EXP 	textInstructions: autoDraw = False
+10.5856 	EXP 	centralFixation: size = array([0.005, 0.005])
+10.5856 	EXP 	stim1: pos = array([-0.00335296, -0.19209085])
+10.5856 	EXP 	stim1: size = array([0.006, 0.06 ])
+10.5856 	EXP 	stim1: ori = 180.0
+10.5856 	EXP 	stim1: fillColor = '#000000 (hex)'
+10.5856 	EXP 	stim1: lineColor = '#000000 (hex)'
+10.5856 	EXP 	stim2: pos = array([0.00335296, 0.19209085])
+10.5856 	EXP 	stim2: size = array([0.006, 0.06 ])
+10.5856 	EXP 	stim2: ori = 180.0
+10.5856 	EXP 	stim2: fillColor = '#808080 (hex)'
+10.5856 	EXP 	stim2: lineColor = '#808080 (hex)'
+10.5856 	EXP 	stim3: pos = array([0.00335296, 0.19209085])
+10.5856 	EXP 	stim3: size = array([0.006, 0.06 ])
+10.5856 	EXP 	stim3: ori = 180.0
+10.5856 	EXP 	stim3: fillColor = '#808080 (hex)'
+10.5856 	EXP 	stim3: lineColor = '#808080 (hex)'
+10.5856 	EXP 	stim4: pos = array([0.00335296, 0.19209085])
+10.5856 	EXP 	stim4: size = array([0.006, 0.06 ])
+10.5856 	EXP 	stim4: ori = 180.0
+10.5856 	EXP 	stim4: fillColor = '#808080 (hex)'
+10.5856 	EXP 	stim4: lineColor = '#808080 (hex)'
+10.5856 	EXP 	stim5: pos = array([0.00335296, 0.19209085])
+10.5856 	EXP 	stim5: size = array([0.006, 0.06 ])
+10.5856 	EXP 	stim5: ori = 180.0
+10.5856 	EXP 	stim5: fillColor = '#808080 (hex)'
+10.5856 	EXP 	stim5: lineColor = '#808080 (hex)'
+10.5856 	EXP 	centralFixation: autoDraw = True
+10.6359 	DATA 	Mouse:  Left button up, pos=(817,722)
+11.0692 	EXP 	stim1: autoDraw = True
+11.0692 	EXP 	stim2: autoDraw = True
+11.0692 	EXP 	stim3: autoDraw = True
+11.0692 	EXP 	stim4: autoDraw = True
+11.0692 	EXP 	stim5: autoDraw = True
+11.5696 	EXP 	stim1: autoDraw = False
+11.5696 	EXP 	stim2: autoDraw = False
+11.5696 	EXP 	stim3: autoDraw = False
+11.5696 	EXP 	stim4: autoDraw = False
+11.5696 	EXP 	stim5: autoDraw = False
+11.7537 	DATA 	Mouse: Left button down, pos=(817,722)
+11.8534 	DATA 	Mouse:  Left button up, pos=(817,722)
+12.5885 	EXP 	centralFixation: autoDraw = False
+12.5885 	EXP 	centralFixation: autoDraw = False
+12.5885 	EXP 	stim1: autoDraw = False
+12.5885 	EXP 	stim2: autoDraw = False
+12.5885 	EXP 	stim3: autoDraw = False
+12.5885 	EXP 	stim4: autoDraw = False
+12.5885 	EXP 	stim5: autoDraw = False
+12.5885 	EXP 	respRingDemo: size = array([0.38424022, 0.38424022])
+12.5885 	EXP 	probeDemo: size = array([0.01, 0.01])
+12.5885 	EXP 	probeDemo: fillColor = '#000000 (hex)'
+12.5885 	EXP 	probeDemo: lineColor = '#000000 (hex)'
+12.5885 	EXP 	textDemo: height = 0.03
+12.5885 	EXP 	arrowImage: pos = array([ 0.02164704, -0.16709085])
+12.5885 	EXP 	respRingDemo: autoDraw = True
+12.5885 	EXP 	probeDemo: autoDraw = True
+12.5885 	EXP 	textDemo: autoDraw = True
+12.5885 	EXP 	textDemo: text = 'Click on the ring where you remember having seen a bar whose color matches the color of the circle at screen center.'
+13.0378 	DATA 	Mouse: Left button down, pos=(817,722)
+13.0399 	EXP 	window1: recordFrameIntervals = False
+13.0581 	EXP 	respRingDemo: autoDraw = False
+13.0581 	EXP 	probeDemo: autoDraw = False
+13.0581 	EXP 	textDemo: autoDraw = False
+13.0581 	EXP 	arrowImage: autoDraw = False
+13.0582 	EXP 	window1: recordFrameIntervals = False
+14.3407 	DATA 	Mouse:  Left button up, pos=(817,722)
+14.5415 	EXP 	New trial (rep=0, index=1): OrderedDict([('durITI', 1.539), ('trialNumber', -4), ('trialWithinBlock', 1), ('blockNumber', -1), ('setSize', 1), ('dva_52cmMonitorWidth_100cmDistance', 29.148432396077478), ('pixelsPerDegreeVisualAngle', 65.86975154994529), ('probedColor', '#00ff00'), ('probedLocation', [24]), ('probedXY_degUnits_52cmMonitorWidth_100cmDistance', [0.1587704584523879, -3.4963969942675015]), ('probedX_degUnits', 0.1587704584523879), ('probedY_degUnits', -3.496396994267501), ('probedX_pixUnits', 10.458170651729642), ('probedY_pixUnits', -230.30680133237573), ('probedX_heightUnits', 0.008715142209774701), ('probedY_heightUnits', -0.19192233444364645), ('stim1_x', 0.008715142209774701), ('stim1_y', -0.19192233444364645), ('unprobedColors', []), ('unprobedLocations', []), ('unprobedXY', []), ('stim1_color', '#00ff00'), ('stim1_location', 24), ('stim1_orientation', 183.60000000000002), ('stim2_color', '#808080'), ('stim2_location', None), ('stim2_orientation', 183.60000000000002), ('stim3_color', '#808080'), ('stim3_location', None), ('stim3_orientation', 183.60000000000002), ('stim4_color', '#808080'), ('stim4_location', None), ('stim4_orientation', 183.60000000000002), ('stim5_color', '#808080'), ('stim5_location', None), ('stim5_orientation', 183.60000000000002), ('stim2_x_degUnits', None), ('stim2_y_degUnits', None), ('stim2_x_pixUnits', None), ('stim2_y_pixUnits', None), ('stim2_x', -0.008715142209774701), ('stim2_y', 0.19192233444364645), ('stim3_x_degUnits', None), ('stim3_y_degUnits', None), ('stim3_x_pixUnits', None), ('stim3_y_pixUnits', None), ('stim3_x', -0.008715142209774701), ('stim3_y', 0.19192233444364645), ('stim4_x_degUnits', None), ('stim4_y_degUnits', None), ('stim4_x_pixUnits', None), ('stim4_y_pixUnits', None), ('stim4_x', -0.008715142209774701), ('stim4_y', 0.19192233444364645), ('stim5_x_degUnits', None), ('stim5_y_degUnits', None), ('stim5_x_pixUnits', None), ('stim5_y_pixUnits', None), ('stim5_x', -0.008715142209774701), ('stim5_y', 0.19192233444364645)])
+14.5555 	EXP 	centralFixation: size = array([0.005, 0.005])
+14.5555 	EXP 	stim1: pos = array([ 0.00871514, -0.19192233])
+14.5555 	EXP 	stim1: size = array([0.006, 0.06 ])
+14.5555 	EXP 	stim1: ori = 183.60000000000002
+14.5555 	EXP 	stim1: fillColor = '#00ff00 (hex)'
+14.5555 	EXP 	stim1: lineColor = '#00ff00 (hex)'
+14.5555 	EXP 	stim2: pos = array([-0.00871514,  0.19192233])
+14.5555 	EXP 	stim2: size = array([0.006, 0.06 ])
+14.5555 	EXP 	stim2: ori = 183.60000000000002
+14.5555 	EXP 	stim2: fillColor = '#808080 (hex)'
+14.5555 	EXP 	stim2: lineColor = '#808080 (hex)'
+14.5555 	EXP 	stim3: pos = array([-0.00871514,  0.19192233])
+14.5555 	EXP 	stim3: size = array([0.006, 0.06 ])
+14.5555 	EXP 	stim3: ori = 183.60000000000002
+14.5555 	EXP 	stim3: fillColor = '#808080 (hex)'
+14.5555 	EXP 	stim3: lineColor = '#808080 (hex)'
+14.5555 	EXP 	stim4: pos = array([-0.00871514,  0.19192233])
+14.5555 	EXP 	stim4: size = array([0.006, 0.06 ])
+14.5555 	EXP 	stim4: ori = 183.60000000000002
+14.5555 	EXP 	stim4: fillColor = '#808080 (hex)'
+14.5555 	EXP 	stim4: lineColor = '#808080 (hex)'
+14.5555 	EXP 	stim5: pos = array([-0.00871514,  0.19192233])
+14.5555 	EXP 	stim5: size = array([0.006, 0.06 ])
+14.5555 	EXP 	stim5: ori = 183.60000000000002
+14.5555 	EXP 	stim5: fillColor = '#808080 (hex)'
+14.5555 	EXP 	stim5: lineColor = '#808080 (hex)'
+14.5555 	EXP 	centralFixation: autoDraw = True
+15.0398 	EXP 	stim1: autoDraw = True
+15.0398 	EXP 	stim2: autoDraw = True
+15.0398 	EXP 	stim3: autoDraw = True
+15.0398 	EXP 	stim4: autoDraw = True
+15.0398 	EXP 	stim5: autoDraw = True
+15.5396 	EXP 	stim1: autoDraw = False
+15.5396 	EXP 	stim2: autoDraw = False
+15.5396 	EXP 	stim3: autoDraw = False
+15.5396 	EXP 	stim4: autoDraw = False
+15.5396 	EXP 	stim5: autoDraw = False
+16.5615 	EXP 	centralFixation: autoDraw = False
+16.5615 	EXP 	centralFixation: autoDraw = False
+16.5615 	EXP 	stim1: autoDraw = False
+16.5615 	EXP 	stim2: autoDraw = False
+16.5615 	EXP 	stim3: autoDraw = False
+16.5615 	EXP 	stim4: autoDraw = False
+16.5615 	EXP 	stim5: autoDraw = False
+16.5615 	EXP 	respRingDemo: size = array([0.38424022, 0.38424022])
+16.5615 	EXP 	probeDemo: size = array([0.01, 0.01])
+16.5615 	EXP 	probeDemo: fillColor = '#00ff00 (hex)'
+16.5615 	EXP 	probeDemo: lineColor = '#00ff00 (hex)'
+16.5615 	EXP 	textDemo: height = 0.03
+16.5615 	EXP 	arrowImage: pos = array([ 0.03371514, -0.16692233])
+16.5615 	EXP 	respRingDemo: autoDraw = True
+16.5615 	EXP 	probeDemo: autoDraw = True
+16.5615 	EXP 	textDemo: autoDraw = True
+16.5615 	EXP 	textDemo: text = 'Click on the ring where you remember having seen a bar whose color matches the color of the circle at screen center.'
+17.0419 	DATA 	Mouse: Left button down, pos=(817,722)
+17.0590 	EXP 	window1: recordFrameIntervals = False
+17.0742 	EXP 	respRingDemo: autoDraw = False
+17.0742 	EXP 	probeDemo: autoDraw = False
+17.0742 	EXP 	textDemo: autoDraw = False
+17.0742 	EXP 	arrowImage: autoDraw = False
+17.0743 	EXP 	window1: recordFrameIntervals = False
+18.3819 	DATA 	Mouse:  Left button up, pos=(817,722)
+18.5825 	EXP 	New trial (rep=0, index=2): OrderedDict([('durITI', 1.538), ('trialNumber', -3), ('trialWithinBlock', 2), ('blockNumber', -1), ('setSize', 5), ('dva_52cmMonitorWidth_100cmDistance', 29.148432396077478), ('pixelsPerDegreeVisualAngle', 65.86975154994529), ('probedColor', '#1e00b4'), ('probedLocation', [51]), ('probedXY_degUnits_52cmMonitorWidth_100cmDistance', [-3.488726074596865, 0.28069623515100545]), ('probedX_degUnits', -3.4887260745968653), ('probedY_degUnits', 0.28069623515100545), ('probedX_pixUnits', -229.80151975951108), ('probedY_pixUnits', 18.48939127040172), ('probedX_heightUnits', -0.19150126646625923), ('probedY_heightUnits', 0.0154078260586681), ('stim1_x', -0.19150126646625923), ('stim1_y', 0.0154078260586681), ('unprobedColors', ['#00aaff', '#00ff00', '#000000', '#ffffff']), ('unprobedLocations', [40, 72, 38, 96]), ('unprobedXY', [[-2.8670321550114704, -2.0075175272286625], [-0.5957332470811146, 3.4489276446922155], [-2.5928160870036248, -2.3510220626304656], [3.4047155737328882, 0.8111176622295503]]), ('stim1_color', '#1e00b4'), ('stim1_location', 51), ('stim1_orientation', 86.4), ('stim2_color', '#00aaff'), ('stim2_location', 40.0), ('stim2_orientation', 126.0), ('stim3_color', '#00ff00'), ('stim3_location', 72.0), ('stim3_orientation', 10.799999999999997), ('stim4_color', '#000000'), ('stim4_location', 38.0), ('stim4_orientation', 133.20000000000002), ('stim5_color', '#ffffff'), ('stim5_location', 96.0), ('stim5_orientation', -75.6), ('stim2_x_degUnits', -2.86703215501147), ('stim2_y_degUnits', -2.00751752722866), ('stim2_x_pixUnits', -188.85069573630977), ('stim2_y_pixUnits', -132.23468075071236), ('stim2_x', -0.15737557978025815), ('stim2_y', -0.1101955672922603), ('stim3_x_degUnits', -0.595733247081114), ('stim3_y_degUnits', 3.44892764469221), ('stim3_x_pixUnits', -39.24080097527515), ('stim3_y_pixUnits', 227.18000706961388), ('stim3_x', -0.032700667479395956), ('stim3_y', 0.18931667255801157), ('stim4_x_degUnits', -2.59281608700362), ('stim4_y_degUnits', -2.35102206263046), ('stim4_x_pixUnits', -170.78815146562977), ('stim4_y_pixUnits', -154.86123915390831), ('stim4_x', -0.14232345955469147), ('stim4_y', -0.12905103262825693), ('stim5_x_degUnits', 3.40471557373288), ('stim5_y_degUnits', 0.81111766222955), ('stim5_x_pixUnits', 224.26776894001424), ('stim5_y_pixUnits', 53.4281188888329), ('stim5_x', 0.18688980745001185), ('stim5_y', 0.04452343240736075)])
+18.5935 	EXP 	centralFixation: size = array([0.005, 0.005])
+18.5935 	EXP 	stim1: pos = array([-0.19150127,  0.01540783])
+18.5935 	EXP 	stim1: size = array([0.006, 0.06 ])
+18.5935 	EXP 	stim1: ori = 86.4
+18.5935 	EXP 	stim1: fillColor = '#1e00b4 (hex)'
+18.5935 	EXP 	stim1: lineColor = '#1e00b4 (hex)'
+18.5935 	EXP 	stim2: pos = array([-0.15737558, -0.11019557])
+18.5935 	EXP 	stim2: size = array([0.006, 0.06 ])
+18.5935 	EXP 	stim2: ori = 126.0
+18.5935 	EXP 	stim2: fillColor = '#00aaff (hex)'
+18.5935 	EXP 	stim2: lineColor = '#00aaff (hex)'
+18.5935 	EXP 	stim3: pos = array([-0.03270067,  0.18931667])
+18.5935 	EXP 	stim3: size = array([0.006, 0.06 ])
+18.5935 	EXP 	stim3: ori = 10.799999999999997
+18.5935 	EXP 	stim3: fillColor = '#00ff00 (hex)'
+18.5935 	EXP 	stim3: lineColor = '#00ff00 (hex)'
+18.5935 	EXP 	stim4: pos = array([-0.14232346, -0.12905103])
+18.5935 	EXP 	stim4: size = array([0.006, 0.06 ])
+18.5935 	EXP 	stim4: ori = 133.20000000000002
+18.5935 	EXP 	stim4: fillColor = '#000000 (hex)'
+18.5935 	EXP 	stim4: lineColor = '#000000 (hex)'
+18.5935 	EXP 	stim5: pos = array([0.18688981, 0.04452343])
+18.5935 	EXP 	stim5: size = array([0.006, 0.06 ])
+18.5935 	EXP 	stim5: ori = -75.6
+18.5935 	EXP 	stim5: fillColor = '#ffffff (hex)'
+18.5935 	EXP 	stim5: lineColor = '#ffffff (hex)'
+18.5935 	EXP 	centralFixation: autoDraw = True
+19.0928 	EXP 	stim1: autoDraw = True
+19.0928 	EXP 	stim2: autoDraw = True
+19.0928 	EXP 	stim3: autoDraw = True
+19.0928 	EXP 	stim4: autoDraw = True
+19.0928 	EXP 	stim5: autoDraw = True
+19.5930 	EXP 	stim1: autoDraw = False
+19.5930 	EXP 	stim2: autoDraw = False
+19.5930 	EXP 	stim3: autoDraw = False
+19.5930 	EXP 	stim4: autoDraw = False
+19.5930 	EXP 	stim5: autoDraw = False
+20.5981 	EXP 	centralFixation: autoDraw = False
+20.5981 	EXP 	centralFixation: autoDraw = False
+20.5981 	EXP 	stim1: autoDraw = False
+20.5981 	EXP 	stim2: autoDraw = False
+20.5981 	EXP 	stim3: autoDraw = False
+20.5981 	EXP 	stim4: autoDraw = False
+20.5981 	EXP 	stim5: autoDraw = False
+20.5981 	EXP 	respRingDemo: size = array([0.38424022, 0.38424022])
+20.5981 	EXP 	probeDemo: size = array([0.01, 0.01])
+20.5981 	EXP 	probeDemo: fillColor = '#1e00b4 (hex)'
+20.5981 	EXP 	probeDemo: lineColor = '#1e00b4 (hex)'
+20.5981 	EXP 	textDemo: height = 0.03
+20.5981 	EXP 	arrowImage: pos = array([-0.16650127,  0.04040783])
+20.5981 	EXP 	respRingDemo: autoDraw = True
+20.5981 	EXP 	probeDemo: autoDraw = True
+20.5981 	EXP 	textDemo: autoDraw = True
+20.5981 	EXP 	textDemo: text = 'Click on the ring where you remember having seen a bar whose color matches the color of the circle at screen center.'
+20.9973 	DATA 	Mouse: Left button down, pos=(817,722)
+20.9989 	EXP 	window1: recordFrameIntervals = False
+21.0109 	EXP 	respRingDemo: autoDraw = False
+21.0109 	EXP 	probeDemo: autoDraw = False
+21.0109 	EXP 	textDemo: autoDraw = False
+21.0109 	EXP 	arrowImage: autoDraw = False
+21.0110 	EXP 	window1: recordFrameIntervals = False
+22.3211 	DATA 	Mouse:  Left button up, pos=(817,722)
+22.5217 	EXP 	New trial (rep=0, index=3): OrderedDict([('durITI', 1.512), ('trialNumber', -2), ('trialWithinBlock', 3), ('blockNumber', -1), ('setSize', 5), ('dva_52cmMonitorWidth_100cmDistance', 29.148432396077478), ('pixelsPerDegreeVisualAngle', 65.86975154994529), ('probedColor', '#ffffff'), ('probedLocation', [78]), ('probedXY_degUnits_52cmMonitorWidth_100cmDistance', [0.7157361814462673, 3.4260358606658974]), ('probedX_degUnits', 0.7157361814462673), ('probedY_degUnits', 3.4260358606658974), ('probedX_pixUnits', 47.14536444717217), ('probedY_pixUnits', 225.67213094326516), ('probedX_heightUnits', 0.03928780370597681), ('probedY_heightUnits', 0.18806010911938764), ('stim1_x', 0.03928780370597681), ('stim1_y', 0.18806010911938764), ('unprobedColors', ['#00ff00', '#1e00b4', '#000000', '#00aaff']), ('unprobedLocations', [72, 6, 61, 47]), ('unprobedXY', [[-0.5957332470811146, 3.4489276446922155], [3.231235759895433, -1.345033629309313], [-2.6574495756720835, 2.2777097604304775], [-3.4489276446922155, -0.5957332470811129]]), ('stim1_color', '#ffffff'), ('stim1_location', 78), ('stim1_orientation', -10.799999999999997), ('stim2_color', '#00ff00'), ('stim2_location', 72.0), ('stim2_orientation', 10.799999999999997), ('stim3_color', '#1e00b4'), ('stim3_location', 6.0), ('stim3_orientation', 248.40000000000003), ('stim4_color', '#000000'), ('stim4_location', 61.0), ('stim4_orientation', 50.400000000000006), ('stim5_color', '#00aaff'), ('stim5_location', 47.0), ('stim5_orientation', 100.80000000000001), ('stim2_x_degUnits', -0.595733247081114), ('stim2_y_degUnits', 3.44892764469221), ('stim2_x_pixUnits', -39.24080097527515), ('stim2_y_pixUnits', 227.18000706961388), ('stim2_x', -0.032700667479395956), ('stim2_y', 0.18931667255801157), ('stim3_x_degUnits', 3.23123575989543), ('stim3_y_degUnits', -1.34503362930931), ('stim3_x_pixUnits', 212.84069670361066), ('stim3_y_pixUnits', -88.59703098892545), ('stim3_x', 0.1773672472530089), ('stim3_y', -0.07383085915743788), ('stim4_x_degUnits', -2.65744957567208), ('stim4_y_degUnits', 2.27770976043047), ('stim4_x_pixUnits', -175.04554330602744), ('stim4_y_pixUnits', 150.03217602244047), ('stim4_x', -0.1458712860883562), ('stim4_y', 0.12502681335203372), ('stim5_x_degUnits', -3.44892764469221), ('stim5_y_degUnits', -0.595733247081112), ('stim5_x_pixUnits', -227.18000706961388), ('stim5_y_pixUnits', -39.240800975275015), ('stim5_x', -0.18931667255801157), ('stim5_y', -0.032700667479395845)])
+22.5454 	EXP 	centralFixation: size = array([0.005, 0.005])
+22.5454 	EXP 	stim1: pos = array([0.0392878 , 0.18806011])
+22.5454 	EXP 	stim1: size = array([0.006, 0.06 ])
+22.5454 	EXP 	stim1: ori = -10.799999999999997
+22.5454 	EXP 	stim1: fillColor = '#ffffff (hex)'
+22.5454 	EXP 	stim1: lineColor = '#ffffff (hex)'
+22.5454 	EXP 	stim2: pos = array([-0.03270067,  0.18931667])
+22.5454 	EXP 	stim2: size = array([0.006, 0.06 ])
+22.5454 	EXP 	stim2: ori = 10.799999999999997
+22.5454 	EXP 	stim2: fillColor = '#00ff00 (hex)'
+22.5454 	EXP 	stim2: lineColor = '#00ff00 (hex)'
+22.5454 	EXP 	stim3: pos = array([ 0.17736725, -0.07383086])
+22.5454 	EXP 	stim3: size = array([0.006, 0.06 ])
+22.5454 	EXP 	stim3: ori = 248.40000000000003
+22.5454 	EXP 	stim3: fillColor = '#1e00b4 (hex)'
+22.5454 	EXP 	stim3: lineColor = '#1e00b4 (hex)'
+22.5454 	EXP 	stim4: pos = array([-0.14587129,  0.12502681])
+22.5454 	EXP 	stim4: size = array([0.006, 0.06 ])
+22.5454 	EXP 	stim4: ori = 50.400000000000006
+22.5454 	EXP 	stim4: fillColor = '#000000 (hex)'
+22.5454 	EXP 	stim4: lineColor = '#000000 (hex)'
+22.5454 	EXP 	stim5: pos = array([-0.18931667, -0.03270067])
+22.5454 	EXP 	stim5: size = array([0.006, 0.06 ])
+22.5454 	EXP 	stim5: ori = 100.80000000000001
+22.5454 	EXP 	stim5: fillColor = '#00aaff (hex)'
+22.5454 	EXP 	stim5: lineColor = '#00aaff (hex)'
+22.5454 	EXP 	centralFixation: autoDraw = True
+23.0291 	EXP 	stim1: autoDraw = True
+23.0291 	EXP 	stim2: autoDraw = True
+23.0291 	EXP 	stim3: autoDraw = True
+23.0291 	EXP 	stim4: autoDraw = True
+23.0291 	EXP 	stim5: autoDraw = True
+23.5295 	EXP 	stim1: autoDraw = False
+23.5295 	EXP 	stim2: autoDraw = False
+23.5295 	EXP 	stim3: autoDraw = False
+23.5295 	EXP 	stim4: autoDraw = False
+23.5295 	EXP 	stim5: autoDraw = False
+24.5475 	EXP 	centralFixation: autoDraw = False
+24.5475 	EXP 	centralFixation: autoDraw = False
+24.5475 	EXP 	stim1: autoDraw = False
+24.5475 	EXP 	stim2: autoDraw = False
+24.5475 	EXP 	stim3: autoDraw = False
+24.5475 	EXP 	stim4: autoDraw = False
+24.5475 	EXP 	stim5: autoDraw = False
+24.5475 	EXP 	respRingDemo: size = array([0.38424022, 0.38424022])
+24.5475 	EXP 	probeDemo: size = array([0.01, 0.01])
+24.5475 	EXP 	probeDemo: fillColor = '#ffffff (hex)'
+24.5475 	EXP 	probeDemo: lineColor = '#ffffff (hex)'
+24.5475 	EXP 	textDemo: height = 0.03
+24.5475 	EXP 	arrowImage: pos = array([0.0642878 , 0.21306011])
+24.5475 	EXP 	respRingDemo: autoDraw = True
+24.5475 	EXP 	probeDemo: autoDraw = True
+24.5475 	EXP 	textDemo: autoDraw = True
+24.5475 	EXP 	textDemo: text = 'Click on the ring where you remember having seen a bar whose color matches the color of the circle at screen center.'
+24.9654 	DATA 	Mouse: Left button down, pos=(817,722)
+24.9824 	EXP 	window1: recordFrameIntervals = False
+24.9973 	EXP 	respRingDemo: autoDraw = False
+24.9973 	EXP 	probeDemo: autoDraw = False
+24.9973 	EXP 	textDemo: autoDraw = False
+24.9973 	EXP 	arrowImage: autoDraw = False
+24.9974 	EXP 	window1: recordFrameIntervals = False
+26.2782 	DATA 	Mouse:  Left button up, pos=(817,722)
+26.4789 	EXP 	New trial (rep=0, index=4): OrderedDict([('durITI', 1.455), ('trialNumber', -1), ('trialWithinBlock', 4), ('blockNumber', -1), ('setSize', 5), ('dva_52cmMonitorWidth_100cmDistance', 29.148432396077478), ('pixelsPerDegreeVisualAngle', 65.86975154994529), ('probedColor', '#00aaff'), ('probedLocation', [87]), ('probedXY_degUnits_52cmMonitorWidth_100cmDistance', [2.4400778599909754, 2.5091871267766903]), ('probedX_degUnits', 2.440077859990976), ('probedY_degUnits', 2.5091871267766903), ('probedX_pixUnits', 160.72732240012738), ('probedY_pixUnits', 165.27953263310164), ('probedX_heightUnits', 0.1339394353334395), ('probedY_heightUnits', 0.13773294386091803), ('stim1_x', 0.1339394353334395), ('stim1_y', 0.13773294386091803), ('unprobedColors', ['#ffffff', '#00ff00', '#1e00b4', '#000000']), ('unprobedLocations', [42, 9, 48, 34]), ('unprobedXY', [[-3.096033413252794, -1.6323532411896182], [2.9219675214219234, -1.9266825902974842], [-3.4795283739031038, -0.37799774497108013], [-1.9266825902974847, -2.921967521421923]]), ('stim1_color', '#00aaff'), ('stim1_location', 87), ('stim1_orientation', -43.199999999999996), ('stim2_color', '#ffffff'), ('stim2_location', 42.0), ('stim2_orientation', 118.80000000000001), ('stim3_color', '#00ff00'), ('stim3_location', 9.0), ('stim3_orientation', 237.60000000000002), ('stim4_color', '#1e00b4'), ('stim4_location', 48.0), ('stim4_orientation', 97.20000000000002), ('stim5_color', '#000000'), ('stim5_location', 34.0), ('stim5_orientation', 147.6), ('stim2_x_degUnits', -3.09603341325279), ('stim2_y_degUnits', -1.63235324118961), ('stim2_x_pixUnits', -203.9349517212904), ('stim2_y_pixUnits', -107.52270243890753), ('stim2_x', -0.16994579310107533), ('stim2_y', -0.08960225203242295), ('stim3_x_degUnits', 2.92196752142192), ('stim3_y_degUnits', -1.92668259029748), ('stim3_x_pixUnits', 192.4692746730713), ('stim3_y_pixUnits', -126.91010353850004), ('stim3_x', 0.16039106222755942), ('stim3_y', -0.1057584196154167), ('stim4_x_degUnits', -3.4795283739031), ('stim4_y_degUnits', -0.37799774497108), ('stim4_x_pixUnits', -229.19566949998236), ('stim4_y_pixUnits', -24.898617547684623), ('stim4_x', -0.1909963912499853), ('stim4_y', -0.020748847956403853), ('stim5_x_degUnits', -1.92668259029748), ('stim5_y_degUnits', -2.92196752142192), ('stim5_x_pixUnits', -126.91010353850004), ('stim5_y_pixUnits', -192.4692746730713), ('stim5_x', -0.1057584196154167), ('stim5_y', -0.16039106222755942)])
+26.4988 	EXP 	centralFixation: size = array([0.005, 0.005])
+26.4988 	EXP 	stim1: pos = array([0.13393944, 0.13773294])
+26.4988 	EXP 	stim1: size = array([0.006, 0.06 ])
+26.4988 	EXP 	stim1: ori = -43.199999999999996
+26.4988 	EXP 	stim1: fillColor = '#00aaff (hex)'
+26.4988 	EXP 	stim1: lineColor = '#00aaff (hex)'
+26.4988 	EXP 	stim2: pos = array([-0.16994579, -0.08960225])
+26.4988 	EXP 	stim2: size = array([0.006, 0.06 ])
+26.4988 	EXP 	stim2: ori = 118.80000000000001
+26.4988 	EXP 	stim2: fillColor = '#ffffff (hex)'
+26.4988 	EXP 	stim2: lineColor = '#ffffff (hex)'
+26.4988 	EXP 	stim3: pos = array([ 0.16039106, -0.10575842])
+26.4988 	EXP 	stim3: size = array([0.006, 0.06 ])
+26.4988 	EXP 	stim3: ori = 237.60000000000002
+26.4988 	EXP 	stim3: fillColor = '#00ff00 (hex)'
+26.4988 	EXP 	stim3: lineColor = '#00ff00 (hex)'
+26.4988 	EXP 	stim4: pos = array([-0.19099639, -0.02074885])
+26.4988 	EXP 	stim4: size = array([0.006, 0.06 ])
+26.4988 	EXP 	stim4: ori = 97.20000000000002
+26.4988 	EXP 	stim4: fillColor = '#1e00b4 (hex)'
+26.4988 	EXP 	stim4: lineColor = '#1e00b4 (hex)'
+26.4988 	EXP 	stim5: pos = array([-0.10575842, -0.16039106])
+26.4988 	EXP 	stim5: size = array([0.006, 0.06 ])
+26.4988 	EXP 	stim5: ori = 147.6
+26.4988 	EXP 	stim5: fillColor = '#000000 (hex)'
+26.4988 	EXP 	stim5: lineColor = '#000000 (hex)'
+26.4988 	EXP 	centralFixation: autoDraw = True
+26.9823 	EXP 	stim1: autoDraw = True
+26.9823 	EXP 	stim2: autoDraw = True
+26.9823 	EXP 	stim3: autoDraw = True
+26.9823 	EXP 	stim4: autoDraw = True
+26.9823 	EXP 	stim5: autoDraw = True
+27.4828 	EXP 	stim1: autoDraw = False
+27.4828 	EXP 	stim2: autoDraw = False
+27.4828 	EXP 	stim3: autoDraw = False
+27.4828 	EXP 	stim4: autoDraw = False
+27.4828 	EXP 	stim5: autoDraw = False
+28.5010 	EXP 	centralFixation: autoDraw = False
+28.5010 	EXP 	centralFixation: autoDraw = False
+28.5010 	EXP 	stim1: autoDraw = False
+28.5010 	EXP 	stim2: autoDraw = False
+28.5010 	EXP 	stim3: autoDraw = False
+28.5010 	EXP 	stim4: autoDraw = False
+28.5010 	EXP 	stim5: autoDraw = False
+28.5010 	EXP 	respRingDemo: size = array([0.38424022, 0.38424022])
+28.5010 	EXP 	probeDemo: size = array([0.01, 0.01])
+28.5010 	EXP 	probeDemo: fillColor = '#00aaff (hex)'
+28.5010 	EXP 	probeDemo: lineColor = '#00aaff (hex)'
+28.5010 	EXP 	textDemo: height = 0.03
+28.5010 	EXP 	arrowImage: pos = array([0.15893944, 0.16273294])
+28.5010 	EXP 	respRingDemo: autoDraw = True
+28.5010 	EXP 	probeDemo: autoDraw = True
+28.5010 	EXP 	textDemo: autoDraw = True
+28.5010 	EXP 	textDemo: text = 'Click on the ring where you remember having seen a bar whose color matches the color of the circle at screen center.'
+28.9008 	DATA 	Mouse: Left button down, pos=(817,722)
+28.9023 	EXP 	window1: recordFrameIntervals = False
+28.9176 	EXP 	respRingDemo: autoDraw = False
+28.9176 	EXP 	probeDemo: autoDraw = False
+28.9176 	EXP 	textDemo: autoDraw = False
+28.9176 	EXP 	arrowImage: autoDraw = False
+28.9178 	EXP 	window1: recordFrameIntervals = False
+30.1404 	DATA 	Mouse:  Left button up, pos=(817,722)
+30.3409 	EXP 	Created sequence: sequential, trialTypes=1, nReps=10, seed=None
+30.3412 	EXP 	New trial (rep=0, index=0): None
+30.3536 	EXP 	clickToBegin: height = 0.03
+30.3536 	EXP 	clickToBegin: autoDraw = True
+30.3536 	EXP 	clickToBegin: text = 'When you are ready, click the mouse to begin the task.'
+31.4530 	DATA 	Mouse: Left button down, pos=(817,722)
+31.4693 	EXP 	clickToBegin: autoDraw = False
+31.4693 	EXP 	centralFixation_Long: size = array([0.005, 0.005])
+31.4693 	EXP 	centralFixation_Long: autoDraw = True
+31.5363 	DATA 	Mouse:  Left button up, pos=(817,722)
+31.9690 	EXP 	window1: mouseVisible = True
